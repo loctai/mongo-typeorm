@@ -4,7 +4,7 @@ import { ListAllUsersController } from "../controllers/ListAllUsersController";
 import { FindUserController } from "../controllers/FindUserController";
 import { CreateUserController } from "../controllers/CreateUserController";
 import { CreateUserMedicalHistoryController } from "../controllers/CreateUserMedicalHistoryController";
-
+import {createUserValidator} from "../middleware/requestValidation";
 const listAllUsersController = new ListAllUsersController();
 const findUserController = new FindUserController();
 const createUserController = new CreateUserController();
@@ -15,7 +15,7 @@ const userRoutes = Router();
 userRoutes.get("/", listAllUsersController.handle);
 userRoutes.get("/:email", findUserController.handle);
 
-userRoutes.post("/", createUserController.handle);
+userRoutes.post("/", createUserValidator, createUserController.handle);
 userRoutes.post("/:user_id/medical-history", createUserMedicalHistoryController.handle);
 
 export { userRoutes };

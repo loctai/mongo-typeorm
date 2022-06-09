@@ -1,4 +1,5 @@
 import express, { NextFunction, Request, Response } from 'express';
+import { errors } from "celebrate";
 import "express-async-errors";
 import 'reflect-metadata';
 import bodyParser from 'body-parser';
@@ -14,6 +15,7 @@ const app = express()
 app.use(bodyParser.json());
 
 app.use(router);
+// app.use(errors());
 app.use(handleException);
 app.use(urlNotFoundHandler);
 app.use(cors());

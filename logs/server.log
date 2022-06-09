@@ -36,3 +36,71 @@
 2022-06-09T08:10:43.749Z [ERROR] Error:: No metadata for "User" was found.
 2022-06-09T08:10:50.214Z [ERROR] Error:: Email already exists
 2022-06-09T08:10:51.099Z [ERROR] Error:: Email already exists
+2022-06-09T08:32:29.318Z [ERROR] Error:: Validation failed
+2022-06-09T08:39:27.672Z [ERROR] Error:: Validation failed
+2022-06-09T09:01:56.911Z [ERROR] Error:: "email" must be a valid email
+2022-06-09T09:02:01.466Z [ERROR] Error:: "email" must be a valid email
+2022-06-09T09:02:01.836Z [ERROR] Error:: "email" must be a valid email
+2022-06-09T09:02:02.018Z [ERROR] Error:: "email" must be a valid email
+2022-06-09T09:02:34.282Z [ERROR] Error:: "email" must be a valid email
+2022-06-09T09:02:40.277Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:06:15.717Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:06:16.418Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:06:16.803Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:06:16.994Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:06:17.208Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:06:17.435Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:06:18.145Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:06:18.402Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:07:16.539Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:07:17.123Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:07:17.521Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:07:17.689Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:07:17.898Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:07:18.106Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:07:42.284Z [ERROR] Error:: "fir t_name" i  not allowed to be empty
+2022-06-09T09:07:42.955Z [ERROR] Error:: "fir t_name" i  not allowed to be empty
+2022-06-09T09:07:43.273Z [ERROR] Error:: "fir t_name" i  not allowed to be empty
+2022-06-09T09:08:02.381Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:02.983Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:03.237Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:07.270Z [ERROR] Error::  " f i r s t _ n a m e "   i s   n o t   a l l o w e d   t o   b e   e m p t y 
+2022-06-09T09:08:07.977Z [ERROR] Error::  " f i r s t _ n a m e "   i s   n o t   a l l o w e d   t o   b e   e m p t y 
+2022-06-09T09:08:08.224Z [ERROR] Error::  " f i r s t _ n a m e "   i s   n o t   a l l o w e d   t o   b e   e m p t y 
+2022-06-09T09:08:08.433Z [ERROR] Error::  " f i r s t _ n a m e "   i s   n o t   a l l o w e d   t o   b e   e m p t y 
+2022-06-09T09:08:08.639Z [ERROR] Error::  " f i r s t _ n a m e "   i s   n o t   a l l o w e d   t o   b e   e m p t y 
+2022-06-09T09:08:08.864Z [ERROR] Error::  " f i r s t _ n a m e "   i s   n o t   a l l o w e d   t o   b e   e m p t y 
+2022-06-09T09:08:18.222Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:18.914Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:19.138Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:19.376Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:24.574Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:25.081Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:25.288Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:25.514Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:08:25.720Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:10:22.386Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:10:23.283Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:10:23.578Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:11:02.493Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:11:03.220Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:11:32.741Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:11:33.357Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:11:33.783Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:13:18.091Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:15:37.926Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:17:08.193Z [ERROR] Error:: "first_name" is not allowed to be empty
+2022-06-09T09:17:16.751Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:21.917Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:22.342Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:22.593Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:22.769Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:22.986Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:23.184Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:23.584Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:23.784Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:24.019Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:24.208Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:24.424Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:17:26.425Z [ERROR] Error:: first_name is not allowed to be empty
+2022-06-09T09:19:01.714Z [ERROR] Error:: first_name is not allowed to be empty
